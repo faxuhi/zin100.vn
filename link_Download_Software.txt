@@ -3,5 +3,5 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKR
 #Chú Ý
 * Có nhiều tabs phân loại phần mềm phía trên
 * Phía trên có ghi mật khẩu giải nén cần đọc kỹ
-phần mềm windowssecurity khi bị trắng 
+phần mềm windowssecurity khi bị trắng: chuột phải Run as Admintrator và mở lại diệt virus
 https://definitionupdates.microsoft.com/download/DefinitionUpdates/windowssecurity/10.0.27703.1006/x64/securityhealthsetup.exe
