@@ -11,3 +11,8 @@ Hoặc powershell: irm https://massgrave.dev/get | iex
 
 Tuỳ chỉnh trong win: https://github.com/ChrisTitusTech/winutil
 irm "https://christitus.com/win" | iex
+
+
+
+
+LINK TẢI DRIVER TRÊN MICROSOFT UPDATE: https://www.catalog.update.microsoft.com/home.aspx
