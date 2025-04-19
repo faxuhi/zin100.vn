@@ -1,0 +1,4 @@
+https://www.catalog.update.microsoft.com/
+vào trang trên search driver mà tìm không có hoặc lỗi
+tải file cab đó về mở ra, chọn tất cả và extract ra 1 folder
+mở Device Manage chạy update trỏ về folder vừa tạo
