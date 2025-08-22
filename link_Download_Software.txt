@@ -12,7 +12,7 @@ Hoặc powershell: irm https://get.activated.win | iex
 Tuỳ chỉnh trong win: https://github.com/ChrisTitusTech/winutil
 irm "https://christitus.com/win" | iex
 
-
+phần mềm kiểm tra sức khỏe ổ cứng: https://sourceforge.net/projects/crystaldiskinfo/files/9.7.1/CrystalDiskInfo9_7_1.exe/download
 
 
 LINK TẢI DRIVER TRÊN MICROSOFT UPDATE: https://www.catalog.update.microsoft.com/home.aspx
