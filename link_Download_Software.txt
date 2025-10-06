@@ -7,7 +7,10 @@ phần mềm windowssecurity khi bị trắng: chuột phải Run as Admintrator
 https://definitionupdates.microsoft.com/download/DefinitionUpdates/windowssecurity/10.0.27703.1006/x64/securityhealthsetup.exe
 
 active office bằng cmd: powershell iex (irm https://get.activated.win)
-Hoặc powershell: irm https://get.activated.win | iex
+Hoặc chuột phải run as admintrator --> powershell: irm https://get.activated.win | iex
+Chọn 2 cho active office
+
+
 
 Tuỳ chỉnh trong win: https://github.com/ChrisTitusTech/winutil
 irm "https://christitus.com/win" | iex
