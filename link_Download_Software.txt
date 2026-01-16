@@ -19,3 +19,7 @@ phần mềm kiểm tra sức khỏe ổ cứng: https://sourceforge.net/project
 
 
 LINK TẢI DRIVER TRÊN MICROSOFT UPDATE: https://www.catalog.update.microsoft.com/home.aspx
+
+
+tool kiểm tra phần cứng
+https://github.com/a1ive/nwinfo/releases
