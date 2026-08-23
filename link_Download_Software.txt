@@ -27,3 +27,5 @@ LINK TẢI DRIVER TRÊN MICROSOFT UPDATE: https://www.catalog.update.microsoft.c
 
 tool kiểm tra phần cứng
 https://github.com/a1ive/nwinfo/releases
+
+Mạnh hơn Task Manager: https://systeminformer.com/downloads
