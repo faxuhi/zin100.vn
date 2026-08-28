@@ -18,6 +18,8 @@ irm "https://christitus.com/win" | iex
 hoặc https://github.com/raphire/win11debloat
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 
+hoặc https://github.com/itsfatduck/optimizerDuck
+
 
 phần mềm kiểm tra sức khỏe ổ cứng: https://sourceforge.net/projects/crystaldiskinfo/files/9.7.1/CrystalDiskInfo9_7_1.exe/download
 
